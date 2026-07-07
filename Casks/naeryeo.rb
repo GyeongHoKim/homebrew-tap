@@ -41,5 +41,4 @@ cask "naeryeo" do
   end
 
   # No zap stanza required
-
 end
